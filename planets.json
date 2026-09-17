@@ -65,7 +65,7 @@
     "mean": -145.15
   }
 },{
-  "name": "Earth",
+  "name": "Sunny Earth",
   "orderFromSun": 3,
   "hasRings": false,
   "mainAtmosphere": [
@@ -73,6 +73,7 @@
     "O2",
     "Ar"
   ],
+  "note": "This is my first JSON edit",
   "surfaceTemperatureC": {
     "min": -89.2,
     "max": 56.7,
