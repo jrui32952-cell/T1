@@ -65,7 +65,7 @@
     "mean": -145.15
   }
 },{
-  "name": "Sunny Earth",
+  "name": "Earth",
   "orderFromSun": 3,
   "hasRings": false,
   "mainAtmosphere": ["N", "O2", "Ar"],
