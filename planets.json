@@ -69,7 +69,7 @@
   "orderFromSun": 3,
   "hasRings": false,
   "mainAtmosphere": ["N", "O2", "Ar"],
-  "image": "assets/rogue_planet_thingy.svg",
+ "image": "rogue_planet_thingy.svg",
   "note": "This is my first JSON edit",
   "surfaceTemperatureC": {
     "min": -89.2,
